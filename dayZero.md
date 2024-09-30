@@ -57,4 +57,9 @@
 
     Apenas clientes podem ter acesso na porta 53/udp e tcp , o firewall deve estar configurado.
 
-   
+ ## Vulnerabilidade OpenSSH
+
+   # CVE-2024-6387
+     Verificar com `ssh -V`
+     
+# Verificar sempre o link -> https://cert.br/docs/whitepapers/notificacoes/  
